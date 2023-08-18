@@ -1,0 +1,8 @@
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_6\ProductsInventory\ProductsInventory\bin\Debug\ProductsInventory.exe.config
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_6\ProductsInventory\ProductsInventory\bin\Debug\ProductsInventory.exe
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_6\ProductsInventory\ProductsInventory\bin\Debug\ProductsInventory.pdb
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_6\ProductsInventory\ProductsInventory\obj\Debug\ProductsInventory.csproj.AssemblyReference.cache
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_6\ProductsInventory\ProductsInventory\obj\Debug\ProductsInventory.csproj.SuggestedBindingRedirects.cache
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_6\ProductsInventory\ProductsInventory\obj\Debug\ProductsInventory.csproj.CoreCompileInputs.cache
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_6\ProductsInventory\ProductsInventory\obj\Debug\ProductsInventory.exe
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_6\ProductsInventory\ProductsInventory\obj\Debug\ProductsInventory.pdb
