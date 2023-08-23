@@ -1,0 +1,8 @@
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.exe.config
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.exe
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\bin\Debug\ADO.NET_StoredProcedure.pdb
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.AssemblyReference.cache
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.SuggestedBindingRedirects.cache
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.csproj.CoreCompileInputs.cache
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.exe
+D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_9\ADO.NET_StoredProcedure\ADO.NET_StoredProcedure\obj\Debug\ADO.NET_StoredProcedure.pdb
