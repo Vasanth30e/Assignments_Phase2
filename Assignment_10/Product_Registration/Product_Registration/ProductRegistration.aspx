@@ -39,19 +39,26 @@
         .auto-style11 {
             height: 74px;
         }
-    </style>
+        </style>
 </head>
 <body>
     <h2 style="text-align : center">Product Page</h2>
     <form id="form1" runat="server">             
-        <div class="row">
-             <div class="col-md-2"><asp:Image runat="server" ID="Image1" ImageUrl="~/Images/photo1.jpg"
-                 Width="500" Height="150" CssClass="img-fluid" /></div>
-             <div class="col-md-2" style="margin-left : 150px"><asp:Image runat="server" ID="Image2" ImageUrl="~/Images/photo2.jpg"
-                 Width="500" Height="150" CssClass="img-fluid" /></div>            
-         </div>
         
             <table class="w-100">
+                <tr>
+                    <td class="auto-style2">
+                        <asp:Image ID="Image4" runat="server" Height="143px" Width="255px" ImageUrl="~/Images/photo1.jpg" />
+                    </td>
+                    <td class="auto-style3">
+                        <asp:Image ID="Image3" runat="server" Height="143px" Width="255px" ImageUrl="~/Images/photo2.jpg" />
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Smart Watch</td>
+                    <td class="auto-style3">
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Headphone</td>
+                </tr>
                 <tr>
                     <td class="auto-style2">Product Name</td>
                     <td class="auto-style3">
