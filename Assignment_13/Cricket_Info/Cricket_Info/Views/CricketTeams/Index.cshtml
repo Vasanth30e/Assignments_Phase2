@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Cricket_Info.Models.CricketTeam>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div>
+    @{ Html.RenderPartial("_PView");}
+</div>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Team)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NOWC)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Team)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NOWC)
+        </td>
+    </tr>
+}
+
+</table>
