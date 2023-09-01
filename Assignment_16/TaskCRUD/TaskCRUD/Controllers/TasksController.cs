@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using TaskCRUD.Data;
 using TaskCRUD.Models;
+using Task = TaskCRUD.Models.Task;
 
 namespace TaskCRUD.Controllers
 {
@@ -56,7 +57,7 @@ namespace TaskCRUD.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Title,Description,DueDate")] System.Threading.Tasks.Task task)
+        public async Task<IActionResult> Create([Bind("Id,Title,Description,DueDate")] Task task)
         {
             if (ModelState.IsValid)
             {
@@ -88,7 +89,7 @@ namespace TaskCRUD.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,DueDate")] System.Threading.Tasks.Task task)
+        public async Task<IActionResult> Edit(int id, [Bind("Id,Title,Description,DueDate")] Task task)
         {
             if (id != task.Id)
             {
