@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TaskCRUD
+build_property.RootNamespace = TaskCRUD
+build_property.ProjectDir = D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_16\TaskCRUD\TaskCRUD\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Training\Database Connectivity & Web Services\Assignments_Phase2\Assignment_16\TaskCRUD\TaskCRUD
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/Tasks/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/Tasks/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/Tasks/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/Tasks/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/Tasks/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFza3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Database Connectivity & Web Services/Assignments_Phase2/Assignment_16/TaskCRUD/TaskCRUD/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-dq7sey8wg5
